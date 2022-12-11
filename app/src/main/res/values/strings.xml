@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Spinner_Anidados</string>
+    <string-array name="array_familias">
+        <item>Mecánica</item>
+        <item>Informática</item>
+        <item>Administración</item>
+        <item>Electricidad</item>
+    </string-array>
+    <string-array name="array_informatica">
+        <item>FPM Sistemas Microinformáticos y Redes</item>
+        <item>FPS Desarrollo de Aplicaciones Multiplataforma</item>
+        <item>FPS Desarrollo de Apliaciones Web</item>
+        <item>FPS Automatización de Robótica Industrial</item>
+
+    </string-array>
+    <string-array name="array_mecanica">
+        <item>FPB Mantenimiento de Vehículos</item>
+
+    </string-array>
+    <string-array name="array_electricidad">
+         <item>FPM Instalaciones Eléctricas y Automáticas</item>
+        <item> FPM Electromecánica de vehículos Automóviles</item>
+        <item>FPS Sistemas Electrotécnicos y Automatizados</item>
+
+    </string-array>
+
+    <string-array name="array_administracion">
+        <item>FPM Gestión Administrativa</item>
+        <item>FPS Administración y Finanzas</item>
+
+
+    </string-array>
+</resources>
